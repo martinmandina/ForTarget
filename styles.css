@@ -1,0 +1,18 @@
+body {
+  background-color: #ffe1a8;
+
+}
+h1 {
+  color:blue;
+  font-size: 300%;
+  font-family: verdana;
+
+}
+p {
+  color:red;
+  font-family: monospace;
+  font-size: 170%;
+  border: 2px solid powderblue;
+  padding: 4px;
+  margin: 50px;
+}
